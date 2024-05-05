@@ -1,8 +1,12 @@
 # CrytoCode
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uma simples landing page sobre crytomoedas
 
-Currently, two official plugins are available:
+## Instalação
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+É necessário ter instalado na sua máquina Node.js, Vite.
+Foi utilizado no projecto Biblioteca Javascript React na sua versão 18.2.0
+No terminal na pasta onde se encontra o projecto colocar o seguinte comando para iniciar o projeto: `npm run dev`.
+
+Ira aparecer no terminal `http://localhost:5173/` ou algo similar a isso.
+copie e cole na URL do seu navegador.
